@@ -67,3 +67,11 @@
     background-size: 30px;
     cursor: pointer;
 }
+
+@media(max-width: 765px){
+   .container {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+   }    
+}
